@@ -1,0 +1,67 @@
+                                  {
+  "data": [
+    {
+      "id": "1",
+      "name": "Practitioner of Political Administration (PPA)",
+      "img": "/Mask group (7).png",
+      "status": true,
+      "sena": "24 000 ₽"
+    },
+    {
+      "id": "2",
+      "name": "Practitioner of Political Administration (PPA)",
+      "img": "/Mask group (8).png",
+      "status": false,
+      "sena": "25 000 ₽"
+    },
+    {
+      "id": "3",
+      "name": "Менеджер online-продаж",
+      "img": "/Mask group (9).png",
+      "status": true,
+      "sena": "26 000 ₽"
+    },
+    {
+      "name": "Изучение обоняния. Основы клинической ольфактологии ",
+      "sena": "27 000 ₽ ",
+      "img": "/Mask group (10).png",
+      "status": false,
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Изучение обоняния. Основы клинической ольфактологии",
+      "img": "/Mask group (11).png",
+      "status": true,
+      "sena": "28 000 ₽"
+    },
+    {
+      "id": "6",
+      "name": "Изучение обоняния. Основы клинической ольфактологии",
+      "img": "/Mask group (12).png",
+      "status": false,
+      "sena": "29 000 ₽"
+    },
+    {
+      "id": "7",
+      "name": "Изучение обоняния. Основы клинической ольфактологии",
+      "img": "/Mask group (13).png",
+      "status": true,
+      "sena": "30 000 ₽"
+    },
+    {
+      "id": "8",
+      "name": "Изучение обоняния. Основы клинической ольфактологии",
+      "img": "/Mask group (14).png",
+      "status": false,
+      "sena": "22 000 ₽"
+    },
+    {
+      "id": "9",
+      "name": "Изучение обоняния. Основы клинической ольфактологии",
+      "img": "/Mask group (15).png",
+      "status": true,
+      "sena": "20 000 ₽"
+    }
+  ]
+}
